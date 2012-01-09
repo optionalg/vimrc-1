@@ -1,0 +1,11 @@
+[submodule "bundle/ack.vim"]
+    path = bundle/ack.vim
+    url = https://github.com/mileszs/ack.vim.git
+[submodule "bundle/command-t"]
+    path = bundle/command-t
+    url = git://git.wincent.com/command-t.git
+[submodule "bundle/vim-colors-solarized"]
+    path = bundle/vim-colors-solarized
+    url = https://github.com/altercation/vim-colors-solarized.git
+
+
