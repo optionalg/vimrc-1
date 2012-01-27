@@ -42,5 +42,5 @@ map <C-t> :CommandT<CR>
 map <C-g> :CommandTBuffer<CR>
 
 
-set backupdir=/private/tmp/
+set backupdir=/private/tmp/,/tmp/
 set dir=~/tmp,/var/tmp,/tmp
